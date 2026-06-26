@@ -1,0 +1,12 @@
+# Build
+**/build/
+**/out/
+**/.gradle/
+# IDE
+.idea/
+*.iml
+.vscode/
+# OS
+.DS_Store
+# Resources (day별 리소스 폴더 제외)
+**/resources/
