@@ -6,9 +6,9 @@
 
 ### 프로젝트 path
 dayN/
-└── workspace/
-└── projectName/
-└── GUIDE.md # 프로젝트 설명 및 사용법
+  └── workspace/
+  └── projectName/
+  └── GUIDE.md # 프로젝트 설명 및 사용법
 
 
 ## 목차
